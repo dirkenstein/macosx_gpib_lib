@@ -1,0 +1,40 @@
+=====================================================
+
+
+	The Macosx_gpib_lib Package
+	-----------------------------------
+    		(c) 2018.     by Guilhem Vavelin
+
+=====================================================
+
+Version 1.0.0a: Initial Alpha Release
+Verison 1.0.1a: Improving timing for 82357B FW loading
+Version 1.0.2a: Timeout settings fixed
+                SRQ fixed
+                ibwait fixed
+                gpib.py function wait added
+                code cleanup
+Version 1.0.3a  Random issue with SQR fixed
+                gpib.py now returns str() instead of
+                buffer
+                maybe the latest update before beta
+                release.
+
+*************** COPYRIGHT NOTICE ***********************
+
+If you want to distribute software which makes use of
+this package, please read the COPYING file carefully.
+
+********************************************************
+
+
+
+
+
+
+
+
+
+
+
+
