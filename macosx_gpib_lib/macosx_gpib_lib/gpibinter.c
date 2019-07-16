@@ -7,7 +7,7 @@
 #include "Python.h"
 
 #include "gpib_user.h"
-#include <gpib/ni4882.h>
+#include "ib.h"
 #if PY_MAJOR_VERSION >= 3
 #define IS_PY3K
 #define PyInt_FromLong PyLong_FromLong
